@@ -28,7 +28,7 @@ Inspired by the real YouTube layout for learning purposes.
 
 🔗 Connect with Me
 - GitHub: [Thirumani-Akshitha](https://github.com/Thirumani-Akshitha)
-- LinkedIn: [Thirumani Akshitha](www.linkedin.com/in/thirumani-akshitha)
+- LinkedIn: [Thirumani Akshitha](www.linkedin.com/in/thirumani-akshitha/)
 
 
 🚀 Happy Coding!
